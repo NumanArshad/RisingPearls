@@ -20,7 +20,7 @@
     "express-session": "^1.15.6",
     "forEachAsync": "^3.0.0",
     "generate-password": "^1.4.0",
-    "googleapis": "^37.2.0",
+    "googleapis": "^39.1.0",
     "jade": "^1.11.0",
     "jsonwebtoken": "^8.2.1",
     "mongoose": "^5.0.12",
